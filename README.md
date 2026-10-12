@@ -183,3 +183,24 @@ The 12 stream definitions provide domain boundaries and canonical bootcamp ident
 
 **SuccessLabs Academy**  
 *Architecting Experiences for a Better World*
+
+## SCM Gameboard Learning Model
+
+The **Autonomous SCM Gameboard Model** turns supply chain learning into practical missions with tangible artifacts and evidence of capability. It applies the six-part pattern: **Player Identity → Winning Promise → Level Ladder → Mission Design → Reward Engine → Growth Loop**.
+
+Read the [Autonomous SCM Gameboard Model](gameboard_model_autonomous_scm.md) for the full curriculum blueprint, all eight learning formats, examples across the 12 capability streams, the 20-lab mapping, assessment guidance, and a pilot plan.
+
+### Eight Learning Formats
+
+| Format | Primary purpose | Example SCM use |
+|---|---|---|
+| Webinar | Awareness and orientation | From Demand Signal to Delivery |
+| MasterClass | Expert judgement and complex trade-offs | Supply Network Resilience MasterClass |
+| Workshop | Practise one focused skill | Inventory Policy Studio |
+| Bootcamp | Build connected capability | Integrated Supply Planning Bootcamp |
+| Hackathon | Solve a challenge and demonstrate execution | Supply Chain Resilience Challenge |
+| 21-day Challenge | Build consistent daily practice | Daily Supply Chain Thinking |
+| Sprint | Finish one defined deliverable | Five-Day Supply Exception Sprint |
+| SuperClass | Enterprise strategy and advanced judgement | Autonomous Supply Chain Strategy SuperClass |
+
+Select formats based on learner intent, depth, and expected evidence. A format is not a curriculum by itself; combine formats intentionally and assess outputs proportionately.
