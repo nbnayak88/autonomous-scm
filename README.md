@@ -204,3 +204,9 @@ Read the [Autonomous SCM Gameboard Model](gameboard_model_autonomous_scm.md) for
 | SuperClass | Enterprise strategy and advanced judgement | Autonomous Supply Chain Strategy SuperClass |
 
 Select formats based on learner intent, depth, and expected evidence. A format is not a curriculum by itself; combine formats intentionally and assess outputs proportionately.
+
+## Free 7-Day Supply Chain Origin Story Challenge
+
+[TagMango Level Up — The Origin Story: Supply Chain Management](learning/challenges/the-origin-story/scm-7-day-tagmango-level-up.md) includes a welcome post, seven beginner-friendly daily missions and a final celebration. It connects demand, stock, timing, handoffs, resilience, social impact and 1970–2050 context through short text submissions. A coach-only appendix distinguishes product traceability from requirements traceability and links the Origin Story to testing, go-live readiness and outcomes.
+
+[Explore the SuccessLabs Academy webinar](https://hub.successlabsacademy.com/web/checkout/694af8798dd872a219700dd3). The challenge is free; further learning is optional.
